@@ -1,0 +1,6 @@
+<apex:page id="LadaHome">
+    <apex:includeLightning/>
+    <div id="lightning"/>
+    <h1>Lada Minsk</h1>
+
+</apex:page>
